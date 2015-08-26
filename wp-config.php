@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'eamonncoDBb28s');
+define('DB_NAME', 'eamonncoDBpe2nm');
 
 /** MySQL database username */
-define('DB_USER', 'eamonncoDBb28s');
+define('DB_USER', 'eamonncoDBpe2nm');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'yit1kit1L3');
+define('DB_PASSWORD', 'Kt31QcCNnk');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'HDTXq*Pim*.q*.2L]9SWpHaet#Wqt#6t#]9T59SWptZdw-:ex#]D-:1KOCKOhl~ho');
-define('SECURE_AUTH_KEY',  'ptx#9[1GKd5OSh-Watx]h-~15[:GKRkNVgwVZh_1o~14O8CVkoUko@Zz@04v|8CRo');
-define('LOGGED_IN_KEY',    '|-:CG48NgkRUo@!ck@!4s|[8RUYrv>}v>}B^04Nc3MQjnbqu,3$7AU,3MbfIXn^q');
-define('NONCE_KEY',        'S_l+~;HGVp~_l~!1w#[DS[9SWpNdw-:wz}0J|[8O48RVkYcv|>v,>BF|48RVBFYos');
-define('AUTH_SALT',        'LLa+~p~1G~:GKZ5OdhOdhw[-[:C|8CRgGVZsVko~1gkz}v|48R!0JZdFVoscv,>7,');
-define('SECURE_AUTH_SALT', 'ha_#ix]9_#5LeOSl-~hw[:p~1HK:GWaKdsw|sw|4-[8CV8CRhv,>BF}BFUoJNgwzc');
-define('LOGGED_IN_SALT',   '!z>7B{BUjnQjy$Yr^,3^3MQbq.<q.26L<AQT6PTjymq*2+*;DW<6PeiLeuxh+];D');
-define('NONCE_SALT',       'SxSWpt.l*_2L[DSWpGZps#Wpt#]w-:1KOCGZdwNdw-[os_5~!5KO8NcsYckz}0w|4');
+define('AUTH_KEY',         'XjyEUBU^,72LP*;$2imjm$MPMQj6Aor8RVRV|4848os|@!RVojzJMgNgk3747Rr');
+define('SECURE_AUTH_KEY',  'OZ!C#]imetDTLae]A6Lx<_1dtp~KOeWl2LDS*_Mn<7IM${,3Ujcr7QXmq6LEX.2^');
+define('LOGGED_IN_KEY',    'Sp5P<7nq.r^QUnUj37Q7M$^;Euy{.<XmqmqAPTQf*3615lo~-~OSldh:GKGK-~1:');
+define('NONCE_KEY',        'BJY|>!48osos|GZfj$JMJNg^3747nr,@!RUnGZd[C[CGw-w-]Zdadx1GRVo[CGCGw');
+define('AUTH_SALT',        'CKw#~1dho!|VkRko8N5OR!1~15l-Tm26P6PT*2*2ei+i+HLeatxHKDW_#9#9Dt_p*');
+define('SECURE_AUTH_SALT', 'jQfMb<B37My{2Iixq.PfibqAPIMy{UYo4NFJv>!04gzs!NRYr7MQJY>70Fgvr!NQg');
+define('LOGGED_IN_SALT',   'P*;<6m+_#Shat5OHLa#925ixEUX<73jun^Mbfjn3ITi;2{Am*y<{XmjuET8Bn!z>');
+define('NONCE_SALT',       'D#+]Xqix+HXhtDS9O+]_5ix+t_Si{Bb$uyEUQfjIBFr,<Am+uy<TifuAE7M${@}');
 
 /**#@-*/
 
